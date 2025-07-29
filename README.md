@@ -7,7 +7,7 @@ Thanks for your interest! This repository contains the code and data for the pap
 
 | File/Folder | Description | Reproducing the Results |
 |-------------|-------------|-------------------------|
-| `Behavioral Codes.csv` | Summarizes all behavioral codes learned and analyzed in the study for quick reference. | --- |
+| `Behavioral Codes.csv` | Summarizes all behavioral codes learned and analyzed in this study for quick reference. | --- |
 | `data/`     | Contains human data from MobLab and the meta-study of the Dictator Game.  | --- |
 | `records/`  | Contains the learned behavioral codes and intermediate results.  | --- |
 | `clusters/` | Contains the clustering results of the behavioral codes. | --- |
@@ -29,7 +29,7 @@ Thanks for your interest! This repository contains the code and data for the pap
 
 ## Dependencies
 
-Required packages are listed in `environment.yml`. 
+Required packages are listed in `environment.yml`. Some commented-out code in the notebooks may require instailling some additional packages (e.g., `spacy`, `umap`) and resolving the dependency conflicts manually. The exported conda environment is only for reproducing the results with the preprocessed intermediate data in `/records`.
 
 ## Citation and Contact
 
