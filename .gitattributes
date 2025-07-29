@@ -1,0 +1,3 @@
+*.npy filter=lfs diff=lfs merge=lfs -text
+records/*.jsonl filter=lfs diff=lfs merge=lfs -text
+records/*.npy filter=lfs diff=lfs merge=lfs -text

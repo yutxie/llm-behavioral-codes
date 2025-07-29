@@ -1,0 +1,1 @@
+../LargeVis/LargeVis -input records/embeddings_system_prompt_all_20241030162925_1536.txt -output records/embeddings_system_prompt_all_20241030162925_1536.largevis.txt -fea 1

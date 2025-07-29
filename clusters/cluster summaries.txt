@@ -1,0 +1,23 @@
+cluster 8AE92B-496: Balanced Strategic Fairness
+cluster 9EFF86-276: Cooperative Banker Tactics
+cluster 9884D3-330: Assertive Cautious Investing
+cluster 96806D-122: Profit-Maximizing Banker
+cluster 97288C-402: Rational Acceptance Threshold
+cluster A4852F-234: Generous Negotiation Proposals
+cluster A9865E-246: Selfish Maximization Tactics
+cluster AD4C9C-13: Balanced Profit Optimization
+cluster AF1A9A-461: Balanced Banker Approach
+cluster B6821C-429: High-Value Negotiation
+cluster C8BEA6-272: Risk-Averse Investing
+cluster C58AFC-361: Generous Resource Sharing
+cluster CA8766-523: Risk-Reward Balancing
+cluster CE4DBC-728: Moderate Investment Strategy
+cluster D82A77-74: Cooperative Contribution Strategy
+cluster D99C25-723: Balanced Negotiation Offers
+cluster D303C5-673: Fair Profit Balance
+cluster DA249B-992: Diplomatic Fairness Strategy
+cluster DF1DCB-58: Altruistic Teamwork
+cluster E69B14-413: Balanced Cooperative Gains
+cluster F34DE6-245: Maximal Self Retention
+cluster F45C0D-64: Conservative Contribution Strategy
+cluster F9560C-83: Cooperative Long-Term Gains
